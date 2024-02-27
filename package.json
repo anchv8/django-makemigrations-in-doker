@@ -1,4 +1,9 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anchv8/django-makemigrations-in-doker.git"
+  },
+  "publisher": "anchv8",
   "name": "django-makemigrations-in-doker",
   "displayName": "Django makemigrations in Doker",
   "description": "This extension allows you to execute the makemigrations and migrate Django's commands of an application running inside a container without having to write commands in the terminal.",
